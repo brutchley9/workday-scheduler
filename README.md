@@ -17,6 +17,6 @@ Follow link https://github.com/brutchley9/workday-scheduler to access GitHub rep
 
 <li>https://www.w3docs.com/snippets/css/how-to-change-cursor-on-hover-in-css.html</li>
 
-<li></li>
+<li>https://day.js.org/docs/en/display/format</li>
 
 <li></li>
