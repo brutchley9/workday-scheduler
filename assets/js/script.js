@@ -1,7 +1,11 @@
 var today = dayjs();
 $('currentDay').text(today.format('MMM D, YYYY'));
 
+function logThis() {
+  console.log('Hello World!')
+}
 
+logThis();
 
 
 
