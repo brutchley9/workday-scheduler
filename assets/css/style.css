@@ -12,6 +12,10 @@ textarea {
   padding: 10px;
 }
 
+textarea:hover {
+  cursor: pointer;
+}
+
 .description {
   white-space: pre-wrap;
 }
