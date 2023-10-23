@@ -2,21 +2,21 @@ var today = dayjs();
 $('#currentDay').text("Today's Date: " + (today.format('MM/DD/YYYY')));
 
 
-var buttonNine = document.getElementById("buttonNine");
+var buttonNine = document.getElementById("9am-todo");
 
 buttonNine.addEventListener("click", function(event) {
   event.preventDefault();
 
   var todoNine = document.getElementById("todoNine").value;
 
-  localStorage.setItem("buttonNine", todoNine);
+  localStorage.setItem("9am-todo", todoNine);
   renderTodoNineText();
 
 
 });
 
 function renderTodoNineText() {
-  var todoNine = localStorage.getItem("buttonNine");
+  var todoNine = localStorage.getItem("9am-todo");
   buttonNine.value = todoNine
 }
 

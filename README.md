@@ -19,4 +19,6 @@ Follow link https://github.com/brutchley9/workday-scheduler to access GitHub rep
 
 <li>https://day.js.org/docs/en/display/format</li>
 
-<li></li>
+<li>https://www.w3schools.com/jsref/met_storage_setitem.asp</li>
+
+<li>https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage</li>
