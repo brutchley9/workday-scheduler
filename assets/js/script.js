@@ -2,15 +2,21 @@ var today = dayjs();
 $('#currentDay').text("Today's Date: " + (today.format('MM/DD/YYYY')));
 
 
+var buttonNine = document.getElementById("buttonNine");
 
-function todoNineText() {
-  var todoNine = document.getElementById('#todoNine').value;
-  
-}
+buttonNine.addEventListener("click", function(event) {
+  event.preventDefault();
 
+  var todoNine = document.getElementById("todoNine").value;
+
+  localStorage.setItem(todoNine.value);
+  renderTodoNineText();
+
+
+});
 
 function renderTodoNineText() {
-  var todoNine = localStorage.getItem('todoNine')
+  var todoNine = localStorage.getItem(todoNine.value);
 
 }
 
