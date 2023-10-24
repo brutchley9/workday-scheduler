@@ -3,7 +3,7 @@
 For this challenge, my goal is to utilize a standard calender template in order to provide the user with a means of daily organization through the use of JavaScript elements and the console's own local storage.
 
 Screenshot of webpage:
-<img src="assets/images/Screenshot 2023-10-22 131521.png">
+<img src="assets/images/Screenshot 2023-10-23 213216.png">
 
 ---
 
