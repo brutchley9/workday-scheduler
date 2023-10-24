@@ -22,3 +22,7 @@ Follow link https://github.com/brutchley9/workday-scheduler to access GitHub rep
 <li>https://www.w3schools.com/jsref/met_storage_setitem.asp</li>
 
 <li>https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage</li>
+
+<li>https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault</li>
+
+<li>https://developer.mozilla.org/en-US/docs/Web/API/Element/click_event</li>
